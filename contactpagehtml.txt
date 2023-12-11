@@ -1,0 +1,79 @@
+<html> 
+<head>
+	<title> Contact page </title>
+</head>
+<body>
+	<h1 align = "center"> 
+		<u> Contact page </u>
+	</h1>
+	<center>
+<button><a href ="home.html">home page</a></button>
+<button><a href ="about.html">about page</a></button>
+<button><a href ="contact.html">contact page</a></button>
+<button><a href ="services.html">services page</a></button>
+	</center>
+<h2 > 
+		<u> Project K cast </u>
+</h2>
+
+<table border = "1 px">
+		<tr>
+			<th> Sno </th>
+			<th> Name </th>
+			<th> Age </th>
+			<th> Movie </th>
+			<th> Pics </th>
+		</tr>
+
+		<tr>
+			<td> 1 </td>
+			<td> Prabas</td>
+			<td> 43 </td>
+			<td rowspan="6"> Project k </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic1.jpeg"  width ="100" height ="100"/></td>
+		</tr>
+
+		<tr>
+			<td> 2 </td>
+			<td> Kamal Haasan </td>
+			<td> 68 </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic2.jpeg"  width ="100" height ="100"/> </td>
+		</tr>
+
+		<tr>
+			<td> 3 </td>
+			<td>  Dulquer Salman</td>
+			<td> 37 </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic3.jpeg"  width ="100" height ="100"/> </td>
+		</tr>
+
+		<tr>
+			<td> 4 </td>
+			<td> Rana Daggubati </td>
+			<td> 38 </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic4.jpeg"  width ="100" height ="100"/> </td>
+		</tr>
+
+		<tr>
+			<td> 5 </td>
+			<td> Amitabh Bachchan </td>
+			<td> 80 </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic5.jpeg"  width ="100" height ="100"/> </td>
+		</tr>
+
+		<tr>
+			<td> 6 </td>
+			<td> Disha Patani </td>
+			<td> 31 </td>
+			<td> <img src="C:\Users\adoni\OneDrive\Desktop\HTML--sublinetest\SRC\pic6.jpeg"  width ="100" height ="100"/> </td>
+		</tr>
+
+
+	</table>
+
+	<p> Kalki 2898-A.D is an upcoming Indian epic science fiction film written and directed by Nag Ashwin. It is produced by C. Aswani Dutt under Vyjayanthi Movies. The film stars an ensemble cast including Prabhas, Amitabh Bachchan, Kamal Haasan, Deepika Padukone, Disha Patani and Pasupathy.
+
+		The film was announced under the working title Project K in February 2020 coinciding with the 50th anniversary of Vyjayanthi Movies. However, the production was delayed by a year due to the COVID-19 pandemic. Filming began in July 2021 in a futuristic set at Ramoji Film City, in Hyderabad. It was shot in simultaneously in Telugu and Hindi.[2]
+		
+		Kalki 2898 AD is made on a budget of ₹600 crore (US$75 million), making it the most expensive Indian film ever made. The film's music score is composed by Santhosh Narayanan with cinematography by Djordje Stojiljkovic and production design by Nitin Zihani Choudhary. Kalki 2898 AD is scheduled to be released in cinemas in 2024.[3]</p>
+</html>
